@@ -4,3 +4,8 @@
 
 **Contenuto del repository**: codice sorgente Python 3.x degli esercizi del corso.
 
+**Argomenti del corso**
+
+- labels
+- buttons
+- grid and pack
