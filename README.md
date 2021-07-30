@@ -9,3 +9,4 @@
 - labels
 - buttons
 - grid and pack
+- entry
