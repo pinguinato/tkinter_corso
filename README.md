@@ -6,8 +6,13 @@
 
 **Argomenti del corso**
 
-- labels
-- buttons
-- grid and pack
-- entry
-- calculator application
+- labels (etichette)
+- buttons (bottoni)
+- grid and pack (layout)
+- entry (caselle di testo)
+- calculator application (calculator.py - semplice calcolatrice)
+- images (immagini)
+
+**Corso su YouTube**
+
+https://www.youtube.com/watch?v=YXPyB4XeYLA
